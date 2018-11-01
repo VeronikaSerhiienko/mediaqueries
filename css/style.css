@@ -122,6 +122,13 @@
 	     	display: block;
 	     	float: left;
 	 }
+
+	 .fourth.block .colored:nth-child(3) {
+	 		width: 100%;
+			display: block; 
+			clear: both;
+	 }
+
 	.fifth.block .colored:nth-child(5) {
 			width: 100%;
 			display: block; 
